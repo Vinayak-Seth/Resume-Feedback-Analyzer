@@ -1,0 +1,8 @@
+sentence-transformers
+transformers
+torch
+nltk
+pytesseract
+pdf2image
+PyPDF2
+poppler-utils
