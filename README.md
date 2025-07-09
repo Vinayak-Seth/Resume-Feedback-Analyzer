@@ -49,7 +49,7 @@ Include your own `resume.pdf` and `job_description.txt`, or use the provided sam
 ## 📹 Demo
 
 🎥 **[Watch the Demo Video](./demo/Resume_Analyzer_Demo_VinayakSeth.mp4)**  
-*(Silent walkthrough of the Colab-based tool)*
+
 
 
 
