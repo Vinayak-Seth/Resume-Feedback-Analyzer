@@ -21,13 +21,13 @@ This project analyzes a resume against a job description using natural language 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 Run the script:
 
 ```bash
-python resume_feedback_assistant.py
+python Resume_feedback_Analyzer.py
 ```
 
 ## 📦 Requirements
