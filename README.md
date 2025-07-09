@@ -1,4 +1,4 @@
-﻿# 📝 Resume Feedback Assistant
+﻿# 📝 Resume Feedback Analyzer
 
 This project analyzes a resume against a job description using natural language processing and skill-matching techniques. It gives specific feedback on matching skills, missing qualifications, formatting tips, and overall alignment.
 
