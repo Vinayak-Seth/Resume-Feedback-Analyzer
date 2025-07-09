@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # !pip install -q pytesseract pdf2image sentence-transformers transformers faiss-cpu poppler-utils PyPDF2
+#( Install required libraries (only if not already installed)
 import re
 import numpy as np
 from google.colab import files
