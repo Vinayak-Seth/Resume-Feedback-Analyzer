@@ -45,8 +45,17 @@ python Resume_Feedback_Analyzer.py
 
 Include your own `resume.pdf` and `job_description.txt`, or use the provided samples(examples).
 
-## 🙌 Credits
 
-Developed by Vinayak Seth  
+## 📹 Demo
+
+🎥 **[Watch the Demo Video](./demo/Resume_Analyzer_Demo_VinayakSeth.mp4)**  
+*(Silent walkthrough of the Colab-based tool)*
+
+
+
+## 🙌 Author
+
+Vinayak Seth
+LinkedIn: www.linkedin.com/in/vinayak-seth2027
 CSE - Data Science @ Manipal University Jaipur  
 
