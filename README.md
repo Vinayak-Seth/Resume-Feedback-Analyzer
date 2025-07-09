@@ -27,7 +27,7 @@ pip install -r Requirements.txt
 Run the script:
 
 ```bash
-python Resume_feedback_Analyzer.py
+python Resume_Feedback_Analyzer.py
 ```
 
 ## 📦 Requirements
