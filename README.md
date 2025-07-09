@@ -56,6 +56,8 @@ Include your own `resume.pdf` and `job_description.txt`, or use the provided sam
 ## 🙌 Author
 
 Vinayak Seth
+
 LinkedIn: www.linkedin.com/in/vinayak-seth2027
+
 CSE - Data Science @ Manipal University Jaipur  
 
